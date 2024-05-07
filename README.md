@@ -178,7 +178,7 @@ A su vez, se configura la automatización, para repetir el proceso de ETL alguna
 
 ---
 
-### **Desarrollo del ETL**
+### **Desarrollo**
 
 `Extracción de Datos`
 
