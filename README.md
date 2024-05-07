@@ -186,6 +186,7 @@ Utilizando Python y la librería de Pandas, se genera un dataframe con los datos
 De esta manera, se extraen los datos en un notebook de forma que luego se pueden trabajar para ser transformados.
  
 `Transformación de Datos`
+
 Ya cargado el dataframe, con los datos en crudo, se limpian y se transforman en datos útiles con Python y Pandas.
 Se realiza un proceso llamado feature Engineering (o ingeniería de variables) para dejarlos datos en el formato que se necesitan para ser cargados.
 
